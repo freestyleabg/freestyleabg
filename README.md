@@ -24,6 +24,19 @@ This project aims to centralize and streamline data management in the retail sec
 
 For more details, see the project's [README](https://github.com/freestyleabg/multinational-retail-data-centralisation319/blob/main/README.md).
 
+### Computer Vision Rock Paper Scissors
+A fun and interactive project that combines computer vision and game logic. Using Python, OpenCV, and a pre-trained Keras model, this application recognizes hand gestures in real-time to play Rock Paper Scissors against the computer.
+
+- **Repository**: [Link to GitHub repository for this project](https://github.com/freestyleabg/computer-vision-rock-paper-scissors)
+- **Technologies**: Python, NumPy, OpenCV, Keras, Keyboard
+- **Key Features**:
+  - Real-time gesture recognition from webcam footage.
+  - Classifies hand gestures into Rock, Paper, Scissors, or false reading.
+  - Game logic to manage wins, losses, and overall game state.
+
+For more details, see the project's [README](https://github.com/freestyleabg/computer-vision-rock-paper-scissors/blob/main/README.md).
+
+
 ## Connect with Me
 - 💼 LinkedIn: [linkedin.com/in/andre-b-grant](https://www.linkedin.com/in/andre-b-grant/)
 - 📫 Email: [andre.b.grant@gmail.com](mailto:andre.b.grant@gmail.com)
