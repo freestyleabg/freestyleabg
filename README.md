@@ -12,7 +12,7 @@ I'm an aspiring Data Engineer passionate about harnessing the power of data to d
 
 ## My Projects
 
-### Centralized Data Management for Retail
+### Multinational Retail Data Centralisation
 This project aims to centralize and streamline data management in the retail sector. It features Python scripts for data extraction, cleaning, and database utilities, focusing on handling diverse data formats and sources. Key technologies used include Python, Pandas, Tabula, SQLAlchemy, PostgreSQL, and Docker.
 
 - **Repository**: [Link to GitHub repository for this project](https://github.com/freestyleabg/multinational-retail-data-centralisation319)
