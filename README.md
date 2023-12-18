@@ -27,7 +27,7 @@ For more details, see the project's [README](https://github.com/freestyleabg/mul
 ## Connect with Me
 - 💼 LinkedIn: [linkedin.com/in/andre-b-grant](https://www.linkedin.com/in/andre-b-grant/)
 - 📫 Email: [andre.b.grant@gmail.com](mailto:andre.b.grant@gmail.com)
-- 📝 Website: [blog.andregrant.dev](andregrant.dev)
+- 📝 Website: [andregrant.dev](andregrant.dev)
 
 
 I'm always open to connecting with fellow data enthusiasts and tech professionals. Check out my repositories and let's get in touch!
