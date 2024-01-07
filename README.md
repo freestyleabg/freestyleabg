@@ -1,7 +1,7 @@
 # Hello, I'm André! 👋
 
 ## About Me
-I'm an aspiring Data Engineer passionate about harnessing the power of data to drive decision-making and innovation. When I'm not delving into data, you might find me exploring the great outdoors or experimenting with my Rasberry Pi collection.
+I am a Data Engineer passionate about harnessing the power of data to drive decision-making and innovation. When I'm not delving into data, you might find me exploring the great outdoors or experimenting with my Rasberry Pi collection.
 
 ## Skills
 - 📊 Data Engineering: Proficient in SQL, Python, and data warehousing concepts.
