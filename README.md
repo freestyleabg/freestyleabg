@@ -13,10 +13,10 @@ I am a Data Engineer passionate about harnessing the power of data to drive deci
 ## My Projects
 
 ### AWS Data Pipeline Project: Emulating Pinterest's Data Handling
-A sophisticated project aimed at emulating and innovating upon Pinterest's data processing mechanisms for effective management of vast volumes of user-generated content. This project utilized AWS services, Apache Kafka, Databricks, and more, focusing on real-time analytics and batch data processing.
+A sophisticated project aimed at emulating Pinterest's data processing mechanisms for effective management of vast volumes of user-generated content. This project utilized AWS services, Apache Kafka, Databricks, and more, focusing on real-time analytics and batch data processing.
 
 - **Repository**: [Link to GitHub repository for this project](https://github.com/freestyleabg/pinterest-data-pipeline792)
-- **Technologies**: AWS (Kinesis, S3, MSK, MWAA, RDS), Apache Kafka, Databricks, Apache Airflow
+- **Technologies**: Python, SQL, Spark, AWS (Kinesis, S3, MSK, MWAA, RDS), Apache Kafka, Databricks, Apache Airflow
 - **Key Features**:
   - Simulated real-world user interactions with custom Python scripts.
   - Utilized Databricks for batch and real-time data processing.
